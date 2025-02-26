@@ -23,7 +23,7 @@ Evaluation scripts
 # Citation
 ![image](https://github.com/user-attachments/assets/0cda404a-a5eb-41a1-b5a8-0eb5e9e50ebb)
 
-If you find this repo useful for your research, feel free to give us a star ⭐ or cite our paper:
+If you find this repo useful for your research, feel free to give us a star ⭐ and cite our paper:
 ```
 @inproceedings{
 chen2025hydrasgg,
